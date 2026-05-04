@@ -1,0 +1,6 @@
+@ValeAtivos32427421_HostAddress = http://localhost:5252
+
+GET {{ValeAtivos32427421_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
